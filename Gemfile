@@ -23,6 +23,13 @@ group :development, :test do
   gem 'faker'
 end
 
+group :assets do
+  gem 'therubyracer'
+  gem 'sass-rails'
+  gem 'coffee-rails'
+  gem 'uglifier'
+end
+
 # API
 gem 'rspec_api_documentation'
 gem 'apitome'
