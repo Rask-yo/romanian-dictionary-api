@@ -13,7 +13,6 @@ Documentation can be found at docs/api/index.html
 rake docs:generate
 ```
 
-
 ## Contributing
 
 1. Fork it ( http://github.com/franzejr/romanian-dictionary-api/fork )
