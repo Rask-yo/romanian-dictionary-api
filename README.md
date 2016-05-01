@@ -1,11 +1,18 @@
 # Romanian Dictionary API
 
-## Tests
+[![Build Status](https://travis-ci.org/franzejr/romanian-dictionary-api.svg?branch=master)](https://travis-ci.org/franzejr/romanian-dictionary-api)
+[![Code Climate](https://codeclimate.com/github/franzejr/romanian-dictionary-api/badges/gpa.svg)](https://codeclimate.com/github/franzejr/romanian-dictionary-api)
+
+
+Romanian Dictionary API based on - https://dexonline.ro/
+
+
+#### Tests
 ```
 rspec
 ```
 
-## API Documentation
+#### API Documentation
 
 Documentation can be found at docs/api/index.html
 
