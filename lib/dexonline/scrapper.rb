@@ -27,6 +27,5 @@ module Dexonline
     def generate_url_for(word)
       "#{DICTIONARY_URL}#{word}"
     end
-
   end
 end

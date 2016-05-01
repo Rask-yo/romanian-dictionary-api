@@ -2,7 +2,6 @@ require 'rails_helper'
 
 RSpec.describe Dexonline::Scrapper do
   describe '#definitions' do
-
     it 'returns an array of defintions' do
       word = Dexonline::Scrapper.new('maine')
       definitions = word.definitions

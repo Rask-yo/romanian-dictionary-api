@@ -1,5 +1,18 @@
 # Romanian Dictionary API
 
+## Tests
+```
+rspec
+```
+
+## API Documentation
+
+Documentation can be found at docs/api/index.html
+
+```
+rake docs:generate
+```
+
 
 ## Contributing
 

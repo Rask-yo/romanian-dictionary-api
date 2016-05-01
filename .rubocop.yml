@@ -1,0 +1,22 @@
+AllCops:
+  Exclude:
+    - 'vendor/**/*'
+    - 'spec/fixtures/**/*'
+    - 'tmp/**/*'
+
+Metrics/LineLength:
+  Max: 140
+
+Documentation:
+  Enabled: false
+
+# Offense count: 3
+Style/Documentation:
+  Exclude:
+    - 'vendor/**/*'
+    - 'admin/**/*'
+    - 'spec/**/*'
+    - 'test/**/*'
+    - 'app/controllers/application_controller.rb'
+    - 'app/helpers/application_helper.rb'
+    - 'config/application.rb'
