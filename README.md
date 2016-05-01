@@ -6,6 +6,15 @@
 
 Romanian Dictionary API based on - https://dexonline.ro/
 
+## Online
+
+You can check the API on Heroku:
+
+https://romanian-dictionary-api.herokuapp.com/api/v1/words/<YOUR WORD>
+
+For example:
+
+https://romanian-dictionary-api.herokuapp.com/api/v1/words/astazi
 
 #### Tests
 ```
